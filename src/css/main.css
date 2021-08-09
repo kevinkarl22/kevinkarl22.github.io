@@ -15,8 +15,7 @@
   padding: .25rem 0;
 }
 
-.container .nav-masthead .nav-link:hover,
-.container .nav-masthead .nav-link:focus {
+.container .nav-masthead .nav-link:hover {
   border-bottom-color: rgba(255, 255, 255, .25);
 }
 
