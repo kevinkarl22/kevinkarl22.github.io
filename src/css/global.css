@@ -97,4 +97,8 @@ body {
   z-index: -1;
 }
 
-@media (max-width: 767.98px) {}
+@media (max-width: 767.98px) {
+  #main-body .container #main-content {
+    padding: 0;
+  }
+}
